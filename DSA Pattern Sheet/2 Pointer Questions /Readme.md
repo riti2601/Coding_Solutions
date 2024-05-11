@@ -160,4 +160,8 @@ The last one is similar to the previous category but there is one thing is added
 (*) https://leetcode.com/problems/partition-list/ <br>
 <br>
 <h3>Sorting</h3>
-(*) https://leetcode.com/problems/sort-list/ <br>
+(*) https://leetcode.com/problems/sort-list/ <be>
+
+
+
+SOlving all these questions will help in solving 2 pointer approach questions!!
